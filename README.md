@@ -26,7 +26,7 @@ path
 System Design Beginners
 	- For this topic search for goods resources but In the beginning you can use this one : https://neetcode.io/courses/system-design-for-beginners/0
 	
-	-As a final test design a whole project from a big tech for example: https://neetcode.io/courses/system-design-interview/3
+-As a final test design a whole project from a big tech for example: https://neetcode.io/courses/system-design-interview/3
 	-Then design a microservice system with:
     - [ ] 2 languages ( Node, C#)
     - [ ] 2 databases ( sql server or postgresql and mongodb)
